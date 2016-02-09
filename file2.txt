@@ -1,3 +1,6 @@
 Second fichier test
 
 Voilà une deuxième ligne de code.
+
+Et la troisième ligne est pour Git.
+
